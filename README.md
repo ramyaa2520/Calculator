@@ -18,4 +18,8 @@ Through this project, I practiced:
 🔹 Styling interfaces with CSS
 🔹 Managing basic DOM manipulation and event handling
 🔹 Adding interactivity using JavaScript!
-[Screenshot 2025-06-08 110153](https://github.com/user-attachments/assets/dc61968a-dd84-4c23-8e2a-2b86bcefda9d)
+
+![Calculator Screenshot](https://github.com/user-attachments/assets/dc61968a-dd84-4c23-8e2a-2b86bcefda9d)
+
+
+
